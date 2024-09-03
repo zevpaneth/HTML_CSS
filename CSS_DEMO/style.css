@@ -9,6 +9,7 @@
         img{
             width:45%;
             height: 500px;
+            border-radius: 50px;
         }
         .background-change{
             background-color: #52b062;
